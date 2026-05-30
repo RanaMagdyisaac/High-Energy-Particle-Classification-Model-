@@ -1,5 +1,7 @@
 # High-Energy Particle Classification Model
-
+<a href="https://colab.research.google.com/github/RanaMagdyisaac/High-Energy-Particle-Classification-Model-/blob/main/High_Energy_Particle_Model.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 ## 📌 Project Overview
 This project focuses on the classification of high-energy particles into two distinct categories: **Gamma (g)** and **Hadron (h)**. Using the **MAGIC Gamma Telescope dataset**, I developed a robust machine learning pipeline in Python. The primary goal was to address the inherent class imbalance in the data and build ensemble models capable of accurately distinguishing between the two particle types.
 
